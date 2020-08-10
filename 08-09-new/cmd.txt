@@ -1,0 +1,1 @@
+aplay fmcw_18_2000_30_0.wav & ../micarray_raw_recorder_direct_org --sampling_frequency 48000 --duration 30 --gain -1 --prefix fmcw_18k_20k_30
